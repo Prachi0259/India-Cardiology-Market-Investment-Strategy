@@ -30,7 +30,8 @@ The dashboard enables strategic investment prioritisation using market size, rev
 
 ### Executive Summary
 ![Executive Summary](executive-summary.png)
-<img width="1920" height="1080" alt="executive-summary png" src="https://github.com/user-attachments/assets/c2491b7a-7b41-47b4-9a54-ae92077913c3" />
+<img width="1285" height="677" alt="executive-summary png" src="https://github.com/user-attachments/assets/f45902cd-3a9b-43fd-86b4-0cf49cb84c4e" />
+
 
 ### State-Level Investment Matrix
 ![Investment Matrix](investment-matrix.png)
